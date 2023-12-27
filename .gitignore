@@ -1,0 +1,4 @@
+*.pdf
+raw_*.YAML
+*.ENV
+*.env

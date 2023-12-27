@@ -1,0 +1,87 @@
+basic:
+  name: your_name
+  role: developer
+
+  contact:
+    email: @gmail.com
+    phone: +91
+    address: Bangalore, India
+
+  websites:
+  # optionally add icons to websites from fontawesome - http://mirrors.ctan.org/fonts/fontawesome/doc/fontawesome.pdf
+    github:
+      url: your url
+      icon: github
+
+    linkedin:
+      url: your url
+      icon: linkedin
+
+# summary will be overwritten by the LLM. Leave blank.
+profile: |
+    A developer with over 2 years of experience 
+    and a Master's degree in Artificial Intelligence.
+
+education:
+  - school: Presidency University
+    degrees:
+      - names:
+          - Master's in Artificial intelligence
+        startdate: 2020
+        enddate: 2022
+        gpa: 8.1
+
+  - school: Oxford college of Engineering
+    degrees:
+      - names:
+          - Btech in Mechatronics
+        startdate: 2016
+        enddate: 2020
+        gpa: 6.7
+
+
+experiences:
+  - company: pvt ltd
+    titles:
+        name: Embedded AI Developer
+        startdate: 2022
+        enddate: Present
+
+
+  - company: Pvt Ltd
+    titles:
+        name:  intern
+        startdate: 2021
+        enddate: 2022
+    highlights: |
+      sjnfjsnj
+      jnsjncjk
+    
+
+projects:
+  - titles: dffvdfv
+    highlights: |
+      fffsf
+      sfsfsf
+
+
+  - titles: Training animals using the concepts of AI
+    highlights: |
+      sdfsfsd
+      fsdffs
+
+
+skills:
+  - category: fsffsd
+    skills:
+      - Languages: Python, basic C++, brython.
+      - Frameworks and libraries: Pytorch, tensorflow, Paddle, NumPy, Opencv, Onnx, Tensorrt, YOLO.
+      - Cloud, CI/CD: AWS, AWS-sageMaker, github actions, basic Terraform.
+      - Containerization and scaling technologies: Docker, Docker-compose, swarm, ray.
+      - Hardware: Jetson-nano, Raspberry Pi, Arduino, esp32.
+  - category: Non-technical
+    skills:
+      - Communication
+      - motivator
+      - Team work
+  
